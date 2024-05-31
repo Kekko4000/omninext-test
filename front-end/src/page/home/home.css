@@ -1,0 +1,144 @@
+.bc-home{
+    background-image: url("../../assets/images/bc-home.png");
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    display:block;
+}
+
+.layer{
+    background-color: rgb(43, 80, 176,0.4);
+    width: 100%;
+    height:auto;
+}
+
+.home-head{
+    height: auto;
+    width:100%;
+}
+
+.home-head-content{
+    position: relative;
+    padding: 4rem 4.5rem 4rem 4rem;
+}
+
+
+
+
+.home-head-price-content{
+    width: 350px;
+
+    border-radius: 20px;
+    padding: 1rem 1.5rem;
+    color: #112340;
+}
+
+.layout-price{
+    height:63px;
+    weight: 159px;
+}
+
+.iva{
+    font-family: "Asap", sans-serif;
+}
+
+.border-b-2 {
+    border-color:#112340;
+}
+
+.border-2{
+    border-color:#426BD1;
+}
+
+
+.price{
+    font-size: 60px;
+    line-height: 81.84px;
+
+}
+
+.gray{
+    color:#b0b0b0;
+}
+
+.price b {
+    line-height: 43.65px;
+}
+
+.Sans{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+}
+
+.background-tick{
+    background-color:#000;
+    border-radius:50%;
+    height:20px;
+    width:20px;
+    position:relative;
+}
+
+.checkmark {
+    display: inline-block;
+    transform: rotate(45deg);
+    height: 10px;
+    width: 6px;
+    position:absolute;
+    left:8px;
+    top:3px;
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+  }
+
+.desc-group-2{
+    background-image: url("../../assets/images/Pattern.png");
+    background-color: rgb(0,0,0,0.4);
+    background-size: cover;
+    background-position: center;
+    display:block;
+  }
+
+.desc-group-4{
+    background-image: url("../../assets/images/Newsletter_Back.png");
+    background-color: rgb(0,0,0,0.4);
+    background-size: cover;
+    background-position: center;
+    display:block;
+  }
+
+.desc-group-5{
+    background-color: rgba(18, 27, 48, 1);
+    background-size: cover;
+    background-position: center;
+    display:block;
+  }
+
+
+
+  @media (min-width: 1280px) {
+    
+    .home-head-description{
+        width: 43.063rem;
+        height: 20.313rem;
+    }
+}
+
+
+
+  @media not all and (min-width: 768px){
+    .home-head-content{
+        padding: 0 0 0 1rem;
+        height:100%;
+    }
+
+    .bc-home{
+        background-size: auto 85%;
+    }
+
+
+    .layer{
+        background: linear-gradient(to bottom, rgba(43, 80, 176, 0.4) 85%, transparent 85%);
+        width: 100%;
+    }
+
+  }
