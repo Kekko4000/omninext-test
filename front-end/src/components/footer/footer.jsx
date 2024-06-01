@@ -49,8 +49,5 @@ const Footer = () => {
     );
 };
 
-/*
 
-                <div className=" flex justify-between footer-info gap-20 md:col-start-6 md:col-end-12">
-*/
 export default Footer;

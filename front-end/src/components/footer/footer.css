@@ -34,6 +34,8 @@ footer{
   color: #cfcfcf;
 }
 
+
+
 @media not all and (min-width: 1268px){
   footer{
     padding: 2rem 2rem 4rem 2rem;

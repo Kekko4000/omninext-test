@@ -3,3 +3,44 @@
     height:auto;
     cursor:pointer;
 }
+
+.price{
+    font-size: 60px;
+    line-height: 81.84px;
+
+}
+
+
+.layout-price{
+    height:63px;
+    weight: 159px;
+}
+
+.iva{
+    font-family: "Asap", sans-serif;
+}
+
+
+
+
+.background-tick{
+    background-color:#000;
+    border-radius:50%;
+    height:20px;
+    width:20px;
+    position:relative;
+}
+
+
+.checkmark {
+    display: inline-block;
+    transform: rotate(45deg);
+    height: 10px;
+    width: 6px;
+    position:absolute;
+    left:7px;
+    top:3px;
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+  }
+
