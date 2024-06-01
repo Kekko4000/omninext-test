@@ -16,12 +16,18 @@ Per installare Tailwind CSS nel progetto, segui i passaggi descritti in [questa 
 
 ### Istruzioni per Scaricare il Progetto
 
-1. Clona il repository eseguendo il comando:
+1. Creare cartella e Clona il repository eseguendo il comando:
    ```sh
-   git clone https://github.com/Kekko4000/omninext-test.git
+   md test
+   cd test
+   git init
+   git remote add origin https://github.com/Kekko4000/omninext-test.git
+   git config core.sparseCheckout true
+   git pull origin main
+
 2. Accedi alla directory del progetto:
    ```sh
-    cd omninext-test
+    cd front-end
 3. Installa le dipendenze:
    ```sh
     npm install

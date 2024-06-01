@@ -43,7 +43,7 @@ const NavBar = () => {
 
       <div className="">
       <a href="\">
-        <img src={Logo} className=" cursor-pointer flex-1 md:w-44 max-md:w-36 max-md:pl-2 " alt="logo"></img>
+        <img src={Logo} className={`cursor-pointer flex-1 md:w-44 max-md:w-36 max-md:pl-2  ${menuOpen ? 'max-md:hidden' : ''}`} alt="logo"></img>
       </a>
       </div>
 
