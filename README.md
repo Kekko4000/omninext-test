@@ -36,4 +36,4 @@ Per installare Tailwind CSS nel progetto, segui i passaggi descritti in [questa 
     npm run dev
 5. Andare sul link stampato: [localhost](http://localhost:5173/)
 ## Contatti
-Per eventuali domande o chiarimenti, contatta Massafra Francesco.
+Per eventuali domande o chiarimenti, mi potete contattare: massafra.francesco2000@gmail.com
