@@ -5,6 +5,7 @@ Test eseguito da Massafra Francesco
 ## Obiettivo del Test
 
 L'obiettivo del test è implementare fedelmente il design condiviso utilizzando Figma.
+Il design si può trovare [qui](https://www.figma.com/design/JFprVcW6CdX4zHXzvI1WP2/Test-Front-end-(Light)?node-id=0-1&node-type=canvas)
 
 ## Informazioni sul Progetto
 
